@@ -112,6 +112,7 @@ header {
     margin: 80px 350px;
     padding: 50px 100px;
     border-radius: 8px;
+    background-repeat: no-repeat;
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%), url('../images/watch.png');
 }
 
